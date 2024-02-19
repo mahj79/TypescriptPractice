@@ -8,8 +8,10 @@ for(let i = 0; i <= 100; i++){
 
 console.log(elevator);
 
-//changes
 
+
+
+/*
 function elevatorSearch() {
     for (let i = 0; i < elevator.length; i++) {
         for (let j = i + 1; j < elevator.length + 1; j++) {
@@ -19,3 +21,5 @@ function elevatorSearch() {
         }
     }
 }
+
+*/
